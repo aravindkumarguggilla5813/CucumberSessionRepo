@@ -1,0 +1,2 @@
+[0211/060824.958:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\ARAVIN~1.KUM\AppData\Local\Temp\scoped_dir27116_43235009\Crashpad: The system cannot find the file specified. (0x2)
+[0211/090926.085:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\ARAVIN~1.KUM\AppData\Local\Temp\scoped_dir19096_1644710142\Crashpad: The system cannot find the file specified. (0x2)
